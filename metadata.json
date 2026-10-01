@@ -1,0 +1,6 @@
+{
+  "name": "NOVA ARQ",
+  "description": "Arquitetura contemporânea residencial e corporativa. Arquitetura que transforma espaços em experiências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
